@@ -1,6 +1,6 @@
 # KnJ Bot
+Bot Whatsapp KnJ-
 
-Cara Install
 # Termux
 ```bash
 > git clone https://github.com/Kenzo015/KnJ
@@ -23,3 +23,5 @@ Clone the project and run
 ```
 
 after running it you need to scan the qr
+
+More Features was Coming Soon !
